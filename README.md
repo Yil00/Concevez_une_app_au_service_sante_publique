@@ -16,9 +16,9 @@ Réfléchissant à une idée d’application.
 - identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable.
 - Automatisant ces traitements pour éviter de répéter ces opérations
 
- ![Img 2 public France](https://im3.ezgif.com/tmp/ezgif-3-84a620bcb0.png)
+
  _____
  # SELFY EAT 
  
  Une application qui a pour but de proposer des produits sains à ses clients à partir de données fournies par le site OpenFoodFact selon les critères de scores pré-établies.. 
-![APP SelfyEAT](https://im3.ezgif.com/tmp/ezgif-3-eb1614034c.png)
+![p3DS2](https://user-images.githubusercontent.com/105881992/234869200-ba329bed-2777-4a08-bdbe-ef01b410f755.png)
